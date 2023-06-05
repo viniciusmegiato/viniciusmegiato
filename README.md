@@ -1,8 +1,8 @@
 ## Vinícius Megiato Moreira
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.
-Estag Itaú Unibanco
-Em busca de aprendizagem, sabedoria e novos desafios!
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.</p>
+<p>Estag Itaú Unibanco</p>
+<p>Em busca de aprendizagem, sabedoria e novos desafios!</p>
 
 Siga me 👇
 
