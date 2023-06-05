@@ -1,6 +1,7 @@
 ## Vinícius Megiato Moreira
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.
+Estag Itaú Unibanco
 Em busca de aprendizagem, sabedoria e novos desafios!
 
 Siga me 👇
