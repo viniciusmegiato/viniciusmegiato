@@ -1,6 +1,6 @@
 <p align="center">  <strong> Brasileiro, 31 anos </strong> </p>
 <p align="center">  <strong> Engenheiro Plaforma TI Jr - Itaú Unibanco </strong> </p>
-<p align="center">  <strong> Formado em Análise e Desenvolvimento de Sistemas - Anhembi Morumbi </strong> </p>
+<p align="center">  <strong> Graduado em Análise e Desenvolvimento de Sistemas - Anhembi Morumbi </strong> </p>
 
 
 <p align="center"> 
